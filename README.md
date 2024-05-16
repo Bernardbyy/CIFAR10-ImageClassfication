@@ -31,7 +31,7 @@ Ablation Study:<br>
 | Transfer Learning         |     | ✔   |
 | Decreased Learning Rate   |     | ✔   |
 
-Ensemble Results using Soft Voting (2.4 + 3.2) : 
+Ensemble Results using Soft Voting (2.4 + 3.1) : 
 | Model  | F1-Scores |      |          | Accuracy |      |          |
 |--------|-----------|------|----------|----------|------|----------|
 |        | Train     | Test | Improvement | Train  | Test | Improvement |
@@ -39,6 +39,14 @@ Ensemble Results using Soft Voting (2.4 + 3.2) :
 | **3.1**  | 0.9802    | 0.9235 | +0.0361   | 0.9802 | 0.9234 | +0.0392   |
 | **3.2 (2.4+3.1)** | 0.9859    | 0.9342 | +0.0107   | 0.9859 | 0.9341 | +0.0107   |
 
+Ensemble Method Results across individual classes : <br>
+F1-Score: 
+![image](https://github.com/Bernardbyy/CIFAR10-ImageClassfication/assets/75737130/383575bd-5870-468f-82f8-d3e2acc8976e)
+
+Precision: 
 ![image](https://github.com/Bernardbyy/CIFAR10-ImageClassfication/assets/75737130/ed26d623-23d9-4506-ba3f-7826060f1096)
+
+Recall: 
+![image](https://github.com/Bernardbyy/CIFAR10-ImageClassfication/assets/75737130/c4e5aff6-41b3-4d1a-8b3e-1e9e6ff2002c)
 
 
