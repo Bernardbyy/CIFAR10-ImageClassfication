@@ -3,16 +3,18 @@
 
 An Image Classification project utilizing MobileNetV2 and DenseNet-121. This project leverages advanced techniques to enhance model performance and accuracy, including:
 
-- **Cross Validation**: Utilized to ensure that the model generalizes well to new data.
-- **Early Stopping**: To prevent overfitting by stopping training when validation metrics stop improving.
-- **Transfer Learning**: Applying knowledge gained from one problem to a different but related problem.
-- **Hyperparameter Tuning**: Systematically searching for the optimal parameters of a model.
-- **Data Augmentation**: Increasing the diversity of data available for training models without actually collecting new data.
-- **Changing Optimization Algorithms**: Experimenting with different optimizers to improve training performance.
-- **Weighted Class Training**: Adjusting the importance of a class based on its weight to address class imbalance.
-- **Ensemble Methods (Soft Voting)**: Combining predictions from multiple models to improve accuracy.
+| Index | Technique                    | Description                                               | Specific Details                                 |
+|-------|------------------------------|-----------------------------------------------------------|--------------------------------------------------|
+| 1     | Cross Validation             | Utilized to ensure that the model generalizes well to new data. | 5-fold cross-validation applied.                 |
+| 2     | Early Stopping               | To prevent overfitting by stopping training when validation metrics stop improving. | Patience level set to 5 epochs.                  |
+| 3     | Transfer Learning            | Applying knowledge gained from one problem to a different but related problem. | Leveraging pre-trained weights.                  |
+| 4     | Hyperparameter Tuning        | Systematically searching for the optimal parameters of a model. | Tuning epoch, batch size, and learning rate.     |
+| 5     | Data Augmentation            | Increasing the diversity of data available for training models without actually collecting new data. | Includes random rotation, Gaussian blur, resizing, and bicubic interpolation. |
+| 6     | Changing Optimization Algorithms | Experimenting with different optimizers to improve training performance. | Switch from Adam to AdamW optimizer.             |
+| 7     | Weighted Class Training      | Adjusting the importance of a class based on its weight to address class imbalance. | More emphasis on classes like cats, dogs, birds, and planes. |
+| 8     | Ensemble Methods             | Combining predictions from multiple models to improve accuracy. | Soft voting ensemble of MobileNetV2 and DenseNet-121 logits. |
 
-These methodologies are integrated to tackle the challenges of image classification, aiming to achieve higher accuracy and robustness in model predictions.
+This table provides an at-a-glance overview of the methodologies and specific adaptations made to optimize the CIFAR10 Image Classification project.
 
 
 Overview of entire project: [CIFAR-10 Image Classification Presentation](https://www.canva.com/design/DAGDyqFWRIY/RAk4XL0xich_XI2wHAAWOg/edit?utm_content=DAGDyqFWRIY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
