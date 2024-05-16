@@ -21,3 +21,110 @@ Settings:
 | Increased Batch Size        |     |     |     | ✔   |     | ✔   | ✔   |
 | AdamW Optimization          |     |     |     |     | ✔   |     | ✔   |
 | Weighted Class Training     |     |     |     |     |     | ✔   |     |
+
+<table>
+    <thead>
+        <tr>
+            <th>Enhancements Approaches</th>
+            <th>1.0</th>
+            <th>1.1</th>
+            <th>2.0</th>
+            <th>2.1</th>
+            <th>2.2</th>
+            <th>2.3</th>
+            <th>2.4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Increasing Epochs</td>
+            <td>✔</td>
+            <td>✔</td>
+            <td></td>
+            <td>✔</td>
+            <td>✔</td>
+            <td></td>
+            <td>✔</td>
+        </tr>
+        <tr>
+            <td>Bicubic Interpolation</td>
+            <td></td>
+            <td>✔</td>
+            <td></td>
+            <td></td>
+            <td>✔</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Random Rotation</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Gaussian Blur</td>
+            <td>✔</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Transfer Learning</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Decreased Learning Rate</td>
+            <td></td>
+            <td></td>
+            <td>✔</td>
+            <td></td>
+            <td></td>
+            <td>✔</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Increased Batch Size</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>✔</td>
+            <td></td>
+            <td>✔</td>
+            <td>✔</td>
+        </tr>
+        <tr>
+            <td>AdamW Optimization</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>✔</td>
+            <td></td>
+            <td>✔</td>
+        </tr>
+        <tr>
+            <td>Weighted Class Training</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>✔</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
