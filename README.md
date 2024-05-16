@@ -7,7 +7,7 @@ View the Full Report here: [Full Report](https://docs.google.com/document/d/1GTM
 
 Full project at: [Full Source Codes (1.0 to 3.2)](https://drive.google.com/drive/folders/1OLIl8K3Bo1wY9SUzBPyOX-0uuSmyeMsk?usp=sharing)
 
-Ablation Study: 
+Ablation Study:\n
 7 iteration of MobileV2 Settings: 
 
 | Enhancements Approaches     | 1.0 | 1.1 | 2.0 | 2.1 | 2.2 | 2.3 | 2.4 |
