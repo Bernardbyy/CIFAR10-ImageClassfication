@@ -3,9 +3,9 @@ An Image Classification project w/ MobileNetV2 and DenseNet-121. Leveraging tech
 
 Overview of entire project: [CIFAR-10 Image Classificaiton Presentation](https://www.canva.com/design/DAGDyqFWRIY/RAk4XL0xich_XI2wHAAWOg/edit?utm_content=DAGDyqFWRIY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-View the Full Report here: https://docs.google.com/document/d/1GTMfviF-TvSTIBa5T1_in5LMp3R-I0pt0QUzbbgMQYE/edit?usp=drive_link
+View the Full Report here: [Full Report](https://docs.google.com/document/d/1GTMfviF-TvSTIBa5T1_in5LMp3R-I0pt0QUzbbgMQYE/edit?usp=drive_link)
 
-Full project at: https://drive.google.com/drive/folders/1OLIl8K3Bo1wY9SUzBPyOX-0uuSmyeMsk?usp=sharing
+Full project at: [Full Source Codes (1.0 to 3.2)](https://drive.google.com/drive/folders/1OLIl8K3Bo1wY9SUzBPyOX-0uuSmyeMsk?usp=sharing)
 
 Ablation Study: 
 7 iteration of MobileV2 Settings: 
