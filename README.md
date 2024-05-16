@@ -12,13 +12,13 @@ Ablation Study:<br>
 
 | Enhancements Approaches     | 1.0 | 1.1 | 2.0 | 2.1 | 2.2 | 2.3 | 2.4 |
 |-----------------------------|-----|-----|-----|-----|-----|-----|-----|
-| Increasing Epochs           | ✔   | ✔   |     | ✔   | ✔   |     | ✔   |
-| Bicubic Interpolation       |     | ✔   |     |     | ✔   |     |     |
-| Random Rotation             |     |     |     |     |     |     |     |
-| Gaussian Blur               | ✔   |     |     |     |     |     |     |
-| Transfer Learning           |     |     |     |     |     |     |     |
-| Decreased Learning Rate     |     |     | ✔   |     |     | ✔   |     |
-| Increased Batch Size        |     |     |     | ✔   |     | ✔   | ✔   |
+| Increasing Epochs           | ✔   | ✔   | ✔    | ✔   | ✔   |     | ✔   |
+| Bicubic Interpolation       |     | ✔   | ✔    | ✔    | ✔   |     |     |
+| Random Rotation             |     | ✔    |     |     |     |     |     |
+| Gaussian Blur               |    | ✔    |     |     |     |     |     |
+| Transfer Learning           |     |     | ✔    |✔     |     |     |     |
+| Decreased Learning Rate     |     |     |    |  ✔    |     | ✔   |     |
+| Increased Batch Size        |     |     |     |   |     | ✔   | ✔   |
 | AdamW Optimization          |     |     |     |     | ✔   |     | ✔   |
 | Weighted Class Training     |     |     |     |     |     | ✔   |     |
 
