@@ -1,5 +1,4 @@
 # CIFAR10-ImageClassfication 🖼️
-# CIFAR10-ImageClassification 🖼️
 
 An Image Classification project utilizing MobileNetV2 and DenseNet-121. This project leverages advanced techniques to enhance model performance and accuracy, including:
 
