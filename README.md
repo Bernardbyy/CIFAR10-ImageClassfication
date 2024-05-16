@@ -1,7 +1,21 @@
 # CIFAR10-ImageClassfication 🖼️
-An Image Classification project w/ MobileNetV2 and DenseNet-121. Leveraging techniques like Hyperparameter Tuning, Transfer Learning, Imagine Preprocessing Techniques and Ensemble Methods. 
+# CIFAR10-ImageClassification 🖼️
 
-Overview of entire project: [CIFAR-10 Image Classificaiton Presentation](https://www.canva.com/design/DAGDyqFWRIY/RAk4XL0xich_XI2wHAAWOg/edit?utm_content=DAGDyqFWRIY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+An Image Classification project utilizing MobileNetV2 and DenseNet-121. This project leverages advanced techniques to enhance model performance and accuracy, including:
+
+- **Cross Validation**: Utilized to ensure that the model generalizes well to new data.
+- **Early Stopping**: To prevent overfitting by stopping training when validation metrics stop improving.
+- **Transfer Learning**: Applying knowledge gained from one problem to a different but related problem.
+- **Hyperparameter Tuning**: Systematically searching for the optimal parameters of a model.
+- **Data Augmentation**: Increasing the diversity of data available for training models without actually collecting new data.
+- **Changing Optimization Algorithms**: Experimenting with different optimizers to improve training performance.
+- **Weighted Class Training**: Adjusting the importance of a class based on its weight to address class imbalance.
+- **Ensemble Methods (Soft Voting)**: Combining predictions from multiple models to improve accuracy.
+
+These methodologies are integrated to tackle the challenges of image classification, aiming to achieve higher accuracy and robustness in model predictions.
+
+
+Overview of entire project: [CIFAR-10 Image Classification Presentation](https://www.canva.com/design/DAGDyqFWRIY/RAk4XL0xich_XI2wHAAWOg/edit?utm_content=DAGDyqFWRIY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 View the Full Report here: [Full Report](https://docs.google.com/document/d/1GTMfviF-TvSTIBa5T1_in5LMp3R-I0pt0QUzbbgMQYE/edit?usp=drive_link)
 
